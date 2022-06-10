@@ -1,0 +1,122 @@
+[
+  {
+    "id": "623853b2614ad5aba311fdd1",
+    "index": 0,
+    "price": 14,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpU6DzhSiyBu6Aj_L7njL_IrqeC6w2h6UgEFHE8yfePbGNdC14HuAo6FpTmBShazHjQzU&usqp=CAU",
+    "name": "Just Chill",
+    "gender": "Just Chill"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d4455",
+    "index": 6,
+    "price": 432,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpHprPhiIji8xwgrN6UHQV_gCLBuqqbImpfCnT0JuvnJ5xetrqbRpOiPVtydHWsqTwmQ&usqp=CAU",                           
+    "name": "Orange Tshart",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d4466",
+    "index": 6,
+    "price": 66,
+    "picture": "https://media.istockphoto.com/photos/red-tshirt-clipping-path-picture-id465485445?b=1&k=20&m=465485445&s=170667a&w=0&h=b8cvd7qhxYQzysn8DA_nC0ZImu7K9DDlY9fEFkm2SMA=",
+    "name": " Red Tshirt",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d44khhj11",
+    "index": 6,
+    "price": 411,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/220px-Blue_Tshirt.jpg",
+    "name": "Blue Tshirt ",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d4455555555555",
+    "index": 6,
+    "price": 421,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlDqZYo2bJQULM8pPRtYWownVOnX0Kqg27A&usqp=CAU",
+    "name": " Black Yellow Tshirt ",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2578e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
+    "name": "Keep Coding",
+    "price": 27,
+    "gender": "Keep Coding"
+  },
+  {
+    "id": "623853b21fb149d2ee7b76c7",
+    "index": 2,
+    "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Black",
+    "price": 24,
+    "gender": ""
+  },
+  {
+    "id": "623853b2e91c8de578c9245e",
+    "index": 3,
+    "picture": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
+    "name": "Mix Yellow",
+    "price": 14,
+    "gender": "Mix Yellow"
+  },
+  {
+    "id": "623853b2239582e48409ccc6",
+    "index": 4,
+    "price": 34,
+    "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "id": "623853b2cdda0d5bc294f791",
+    "index": 5,
+    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
+    "name": "Right Price",
+    "price": 141,
+    "gender": "male"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d44a",
+    "index": 6,
+    "price": 41,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdyQAVCS4LU-O24NtBF2Lsk-S39WrGZRYe5MkbBSNPwN8Xsmxz2IRPsXDTZeeGFbDLRc&usqp=CAU",
+    "name": "Black Skull",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d44444",
+    "index": 6,
+    "price": 99,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8t0ZGo1ITX2OMYSe00yOVtnlX4qB9HGIkqg&usqp=CAU",
+    "name": "White Tshart",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d777",
+    "index": 6,
+    "price": 45,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KB_v26F-yUkC4LBme9Gg1G8XMD8gGI7BCv_asnKq15iidTfRtajIbLYv6ay_bb6kL40&usqp=CAU",
+    "name": "Neve Blue Tshart ",
+    "gender": "female"
+  },
+  {
+    "id": "623853b2736f19fd4eb8d5555",
+    "index": 6,
+    "price": 422,
+    "picture": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/12/attachment_89561603-e1513587105243.jpg?auto=format&q=60&fit=max&w=930",
+    "name": " wow Tshart",
+    "gender": "female"
+  }, {
+    "id": "623853b2736f19fd4eb8d445555555",
+    "index": 6,
+    "price": 411,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Io0LKif3yWCsN5CmLm0P6cOx6a1f8ZrCibly9Rp3TnfOZ5Vj_pXGgBGydIell3mkW2k&usqp=CAU",
+    "name": " simple  Tshart ",
+    "gender": "female"
+  }
+
+]

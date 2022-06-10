@@ -1,0 +1,56 @@
+.home-cart {
+  border: 1px solid lightgray;
+  margin-left: 20px;
+  width: 250px;
+  top: 0;
+  position: sticky;
+}
+h2 {
+  color: orange;
+}
+h4 {
+  color: blueviolet;
+}
+.keep-add {
+  color: blue;
+}
+.orange {
+  background-color: orange;
+  padding: 8px;
+  border-radius: 8px;
+}
+.font-color {
+  color: green;
+}
+.remove-all {
+  background-color: orange;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 20px;
+}
+.btn {
+  margin-left: 8px;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 20px;
+}
+.img-size {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+}
+.red-btn {
+  margin-left: 8px;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: lightgray;
+}
+.fatrush {
+  color: red;
+  font-size: 18px;
+}

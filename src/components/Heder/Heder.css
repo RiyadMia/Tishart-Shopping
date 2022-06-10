@@ -1,0 +1,23 @@
+.nav-heder {
+  background-color: cadetblue;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+h1 {
+  color: orange;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+}
+nav a:hover {
+  color: orange;
+}
+.heder-color {
+  color: aqua;
+}
